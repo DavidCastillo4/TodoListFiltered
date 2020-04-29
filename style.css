@@ -1,0 +1,19 @@
+* {margin: 0; padding: 0;}
+
+body {
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+#sectionTop {
+  position: fixed;
+  z-index: 1;
+  height: 50px;
+  width: 100%;
+  background-color: #b3ecff;
+  text-align: center;
+  border-bottom: 1px solid black;
+  margin-bottom: 160px;
+  padding-top: 5px;
+}
